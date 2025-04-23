@@ -1,5 +1,5 @@
 # 🔍 **Employee Attrition – HR Insights with Power BI**  
-> ##### Data used waas taken from the [IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+> ##### Data used was taken from the [IBM HR Analytics Employee Attrition & Performance Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ### 📊 *Overview:*
 In this project I have analyzed employee attrition data to help HR teams identify key drivers of employee turnover. I built an interactive Power BI dashboard to visualize metrics and analyze attrition based on department, job role, overtime, tenure and satisfaction patterns.
